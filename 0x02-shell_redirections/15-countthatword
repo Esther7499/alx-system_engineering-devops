@@ -1,2 +1,0 @@
-#!/bin/bash
-grey -c -i "bin" /etc/paswd
